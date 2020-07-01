@@ -1,0 +1,6 @@
+
+.idea/
+test.py
+*.pyc
+venv/
+data/ir_config_param.xml
